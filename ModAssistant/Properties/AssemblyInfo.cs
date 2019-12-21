@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Resources;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModAssistant")]
+[assembly: AssemblyTitle("ModAssistant-NoPiracy")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModAssistant")]
-[assembly: AssemblyCopyright("Copyright © Assistant 2019")]
+[assembly: AssemblyProduct("ModAssistant-NoPiracy")]
+[assembly: AssemblyCopyright("Why did you do this, Assistant?")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
