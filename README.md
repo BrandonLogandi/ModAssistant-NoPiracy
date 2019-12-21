@@ -1,7 +1,7 @@
 # ModAssistant
 Simple Beat Saber Mod Installer similar to the [Beat Saber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller)
 
-[Download here!](https://github.com/Assistant/ModAssistant/releases/latest)
+[Download here!](https://github.com/BrandonLogandi/ModAssistant-NoPiracy/releases/latest)
 
 Has features such as:
 * Dependency resolution
