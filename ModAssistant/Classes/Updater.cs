@@ -66,7 +66,7 @@ namespace ModAssistant
 
             foreach (Update.Asset asset in LatestUpdate.assets)
             {
-                if (asset.name == "ModAssistant.exe")
+                if (asset.name == "ModAssistant-NoPiracy.exe")
                 {
                     DownloadLink = asset.browser_download_url;
                 }
